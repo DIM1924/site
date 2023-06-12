@@ -2,6 +2,8 @@ body{
     width: 70%;
     margin-left: auto;
     margin-right: auto;
+    background-color: #F5DEB3;
+    
 }
 h1,h2,h3{
     font-family: Arial, sans-serif;  
@@ -16,9 +18,22 @@ table, th,td{
 }
 
 figure{
-    float: right;
+    float:right; 
+    margin: 0 20px 20px 0;  
+    
 
+}
+figure img{
+    width: 100%;
+    height: 100%;
+    
 }
 figcaption{
     font-style: italic;
+}
+div{
+    margin-bottom: 30px;
+}
+p,pre,table,ol{
+    font-size: 20px;
 }
