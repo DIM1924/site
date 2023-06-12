@@ -7,3 +7,15 @@ h1,h2,h3{
     font-family: Arial, sans-serif;  
     margin-top: 24px;
 }
+h1{
+    font: size 1px; ;
+}
+table{
+    border-collapse: collapse;
+    border-color: black;
+    border-width: 1px;
+}
+img{
+    float: right;
+
+}
