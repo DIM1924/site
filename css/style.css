@@ -8,14 +8,17 @@ h1,h2,h3{
     margin-top: 24px;
 }
 h1{
-    font: size 1px; ;
+    font-size: 32px; 
 }
-table{
-    border-collapse: collapse;
-    border-color: black;
-    border-width: 1px;
+table, th,td{
+    border-collapse: separate;
+    border: 1px solid black;
 }
-img{
+
+figure{
     float: right;
 
+}
+figcaption{
+    font-style: italic;
 }
